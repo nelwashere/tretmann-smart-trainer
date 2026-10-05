@@ -1,0 +1,7 @@
+.pio/
+build/
+*.elf
+*.bin
+*.map
+.vscode/
+.DS_Store
